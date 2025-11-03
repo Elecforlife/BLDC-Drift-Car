@@ -76,3 +76,5 @@ The car then reads analog stick and button data to control throttle and steering
 ---
 
 ## 🎥 Demo
+
+https://github.com/user-attachments/assets/259c5a19-ed34-4902-a378-7739fdd49894
